@@ -19,4 +19,4 @@ Data Exploration, Visualization, and Unsupervised Learning
 
 Strategic Leadership
 
-Research Poject
+Research Project

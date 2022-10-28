@@ -17,6 +17,4 @@ Programming for Data Science
 
 Data Exploration, Visualization, and Unsupervised Learning
 
-Strategic Leadership
-
 Research Project

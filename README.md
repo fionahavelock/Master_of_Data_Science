@@ -15,6 +15,8 @@ Machine Learning
 
 Programming for Data Science
 
-Data Exploration, Visualization, and Unsupervised Learning
+Data Exploration and Visualization
+
+Unsupervised Learning
 
 Research Project

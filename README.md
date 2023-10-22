@@ -19,4 +19,4 @@ Data Exploration and Visualization
 
 Unsupervised Learning
 
-Research Project
+Project (Thesis)
